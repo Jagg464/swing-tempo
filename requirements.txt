@@ -1,0 +1,16 @@
+# Acton Finance Agent — Python deps (pin versions when you first install)
+langgraph
+langchain-core
+anthropic            # Anthropic SDK (Messages API)
+supabase             # memory store
+httpx                # standard HTTP fetches (Committee Reporter)
+playwright           # JS-rendered pages (run: playwright install chromium)
+apscheduler          # nightly poll + daily deadline sentinel
+google-api-python-client   # Gmail API
+google-auth-oauthlib
+python-docx          # FinCom memo / Word output
+openpyxl             # financial summary workbook
+beautifulsoup4       # HTML extraction
+pypdf                # PDF text extraction
+python-dotenv        # load .env
+pydantic

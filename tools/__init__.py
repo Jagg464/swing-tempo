@@ -1,0 +1,1 @@
+"""External integrations (Gmail, web fetch, document parsing, Word/Excel output)."""
